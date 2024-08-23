@@ -1,7 +1,7 @@
 ---
 title: स्वस्मै स्वल्पं समाजाय सर्वस्वं।
 subtitle: A little for yourself and everything for the society
-image: img/stylish-aesthetic-summer-photo-collage-banner-1-.png
+image: img/stylish-aesthetic-summer-photo-collage-banner-3-.png
 blurb:
   heading: Who are we
   text: We, The Bharat Cultural Society (BCS) Japan are an organization focused on
